@@ -12,7 +12,5 @@ I'm Mohit Rohda — a final-year B.Tech student and passionate Machine Learning 
 ![](https://nirzak-streak-stats.vercel.app/?user=mohitrohda&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitrohda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohitrohda&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
